@@ -1,1 +1,3 @@
 test push commands
+
+we use the -u to pull any change from remote repo to local repo pefore push
